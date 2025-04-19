@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013059606642",
+    "project_id": "message-board-app-98cee",
+    "storage_bucket": "message-board-app-98cee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013059606642:android:d47e766012074aea5e8aeb",
+        "android_client_info": {
+          "package_name": "com.malik.messageboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDOyybASvADuGUziTTzGcM9l_k4WGHaxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
